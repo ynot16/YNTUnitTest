@@ -12,6 +12,6 @@ open_report true
 
 clean true
 
-device iPhone 7
+device "iPhone 7"
 
 output_types "html"
